@@ -2,7 +2,7 @@
 
 This is a simple Lisp interpreter written in Haskell.
 
-## Running
+## Run
 
 Run the build script build.sh. This will compile the interpreter and start a
 REPL. When you would like to exit the REPL, type "quit". If you would prefer to
