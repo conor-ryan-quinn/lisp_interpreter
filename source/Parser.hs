@@ -172,5 +172,3 @@ parseExpr = parseAtom
                x <- try parseList <|> parseDottedList
                char ')'
                return x
-
-
