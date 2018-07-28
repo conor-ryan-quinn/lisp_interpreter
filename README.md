@@ -9,7 +9,7 @@ REPL. When you would like to exit the REPL, type "quit". If you would prefer to
 run the interpreter on a lisp file, build the interpreter, cd into source (where
 the executable will live) and run the executable with the lisp file as a parameter.
 
-## Next Steps
+## Todo
 
 * Add support for the Lisp Standard Library.
 
